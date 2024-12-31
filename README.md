@@ -9,7 +9,7 @@ Welcome to my Python Notes repository! This repository contains a collection of 
 
 # Learning Source
 
-I learned Python through the Code with Haary YouTube channel, specifically the Python tutorial playlist for absolute beginners. The playlist covers fundamental concepts and provides step-by-step guidance for building your Python skills.
+I learned Python through the Code with Harry YouTube channel, specifically the Python tutorial playlist for absolute beginners. The playlist covers fundamental concepts and provides step-by-step guidance for building your Python skills.
 
 You can access the full playlist [here](https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME&si=qrJh-JVGp8zVM8l3)
 
