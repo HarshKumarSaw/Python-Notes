@@ -139,5 +139,6 @@ git commit --amend               # Edit last commit
 ## 11. Refresh the Terminal
 
 ```bash
-alias fix="cd \"$(realpath .)\""
+echo $PWD
+realpath .
 ```
