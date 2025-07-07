@@ -136,4 +136,8 @@ git commit --amend               # Edit last commit
 
 ---
 
-✅ Now you're set up to use Git and GitHub entirely via SSH!
+## 11. Refresh the Terminal
+
+```bash
+alias fix="cd \"$(realpath .)\""
+```
