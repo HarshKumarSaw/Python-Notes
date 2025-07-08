@@ -75,6 +75,9 @@ git push           # thanks to -u, you don’t need origin/branch
 
 # Fetch & merge changes from remote
 git pull origin main
+
+# Resync your local to remote
+git pull --rebase origin main
 ```
 
 ---
