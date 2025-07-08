@@ -8,12 +8,11 @@ app = Flask(__name__)
 
 @app.route("/")
 def template():
-	return render_template("index.html")
+	return render_template("sample.html")
 #file location bydefault templates folder ka hota hai
 
 #static folder ka location use karne ke liye static/filename kar sakte hai 
-#but instead hum use karte hai url_for('static', filename='fileKAnaam') - best practice
-#agar same inline html karna hai to {{}} ke andar use kar sakte hai - check variable.html for more info
+#but instead hum use karte hai {{ url_for('static', filename='fileKAnaam') }} - best practice inline html only not python
 
 #To link python variables to html
 @app.route("/variable")
