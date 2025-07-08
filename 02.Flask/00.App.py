@@ -6,7 +6,7 @@ app = Flask(__name__)
 #build the flask app
 
 @app.route("/")
-#tells the url - nothing means everything
+#tells the url - currently / means home
 def hello():
 	return "Hello World!"
 	
