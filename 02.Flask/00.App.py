@@ -12,6 +12,8 @@ def hello():
 	
 @app.route("/page2")
 #/ ke baad url pe ye run hoga
+@app.route("/dusrapage")
+# can add multiple routes too
 def page2():
 	return "you are in the second page"
 	
